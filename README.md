@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai kiran</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <p align="center">
-  <img src="./manga-image.png" alt="Sai Kiran coding on a laptop" width="700"/>
+  <img src="./manga_image.png" alt="Sai Kiran coding" width="800"/>
 </p>
 
 - 🔭 I’m currently working on [Lanway your career guidance webapp](https://lanway.vercel.app/)
